@@ -6,7 +6,9 @@ export default function Home() {
     <Box>
       <Header description="A template using Next and Chakra UI with Typescript" />
       <Center h="100vh">
-        <Heading>{"A template with Next & Chakra UI in Typescript - enjoy!"}</Heading>
+        <Heading>
+          {'A template with Next & Chakra UI in Typescript - enjoy!'}
+        </Heading>
       </Center>
     </Box>
   )

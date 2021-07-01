@@ -1,7 +1,7 @@
 import '../styles/globals.css'
-import { ChakraProvider } from "@chakra-ui/react"
-import theme from '../theme';
-import '@fontsource/arimo';
+import { ChakraProvider } from '@chakra-ui/react'
+import theme from '../theme'
+import '@fontsource/arimo'
 
 import type { AppProps } from 'next/app'
 
